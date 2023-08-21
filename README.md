@@ -4,10 +4,9 @@
 ![SportsLive](https://github.com/victore447/M3uSportsFrance/assets/48101775/047408df-b21e-4163-8506-17b81ed675d1)
 
 ### <li>- [x] DESCRIPTION: </li>
-![106](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/acff4463-714a-49de-95a1-a6daea8afae1)
-
-- Voici une playlist M3u de 10 chaines de sport qui expire le 29.12.2023.
-- Guide Tv Url ou à telecharger: https://xmltvfr.fr/xmltv/xmltv.xz
+![119](https://github.com/victore447/M3uSportsFrance/assets/48101775/0d1b4ef4-12bf-4400-89c6-cf228333bb06)
+- Voici une playlist M3u de 10 chaines de sport FHD qui expire le 29.12.2023.
+- Guide TV (Url à inserer ou à telecharger) : https://xmltvfr.fr/xmltv/xmltv.xz
  
   ![bein-sports-1-qa-fr](https://github.com/victore447/M3uSportsFrance/assets/48101775/90648111-2422-42a7-81bb-18d1ed68ce6e)
   ![bein-sports-2-qa](https://github.com/victore447/M3uSportsFrance/assets/48101775/d2e3e90a-1236-40fa-8a44-40d5d208455c)
