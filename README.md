@@ -25,12 +25,17 @@
 ><details>
 >  <summary><b><u>Cliquer sur l'icone noir pour voir:</u></b></summary>
 >  
-> - 🖲️ **[Kodi](https://play.google.com/store/apps/details?id=org.xbmc.kodi&hl=fr&gl=US)**
+> - 🖲️ **[Kodi Google Play Store](https://play.google.com/store/apps/details?id=org.xbmc.kodi&hl=fr&gl=US)**
 > - ![Kodi](https://github.com/victore447/M3uSportsFrance/assets/48101775/ded92ac9-7fe5-431c-ae8a-51e15bbd381b)
-> - 🖲️ **[Ott Navigator Iptv](https://play.google.com/store/apps/details?id=studio.scillarium.ottnavigator&hl=fr&gl=US)**
-> - ![Ott Navigator](https://github.com/victore447/M3uSportsFrance/assets/48101775/86d9a2f8-6516-4f7d-a1e6-89c429e438f3)
-> - 🖲️ **[Tivimate Iptv Player](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=fr&gl=US)**
+> - 🖲️ **[Premium Mod Ott Navigator Iptv](https://dlandroid.com/ott-navigator-iptv-apk)**
+> - 🖲️ **[Ott Navigator Iptv Google Play Store](https://play.google.com/store/apps/details?id=studio.scillarium.ottnavigator&hl=fr&gl=US)**
+> - ![Ott Navigator Google Play Store](https://github.com/victore447/M3uSportsFrance/assets/48101775/86d9a2f8-6516-4f7d-a1e6-89c429e438f3)
+> - 🖲️ **[Premium Mod Tivimate Iptv Player](https://dlandroid.com/tivimate-iptv-player-apk)**
+> - 🖲️ **[Tivimate Iptv Player Google Play Store](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=fr&gl=US)**
 > -  ![Tivimate](https://github.com/victore447/M3uSportsFrance/assets/48101775/2ed83ae1-f593-4ed9-951a-45bb9a9ba029)
+> - 🖲️ **[Premium Mod Televizo](https://happymod.com/ottplay-iptv-725-7-mod/com.ottplay.ottplay/)**
+> - 🖲️ **[Televizo Google Play Store](https://play.google.com/store/apps/details?id=com.ottplay.ottplay&hl=es)**
+> - ![unnamed](https://github.com/victore447/CamGirlsLivePlaylistM3u/assets/48101775/255b84d0-9df4-46a8-a083-876e77403a59)
 
 >  
 ></details>
