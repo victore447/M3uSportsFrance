@@ -5,7 +5,7 @@
 
 ### <li>- [x] DESCRIPTION: </li>
 ![119](https://github.com/victore447/M3uSportsFrance/assets/48101775/0d1b4ef4-12bf-4400-89c6-cf228333bb06)
-- Voici une playlist M3u de 10 chaines de sport FHD qui expire le 29.12.2023.
+- Voici une playlist M3u de 10 chaines de sport FHD qui est unlimited pour l'instant.
 - Guide TV (Url à inserer ou à telecharger) : https://xmltvfr.fr/xmltv/xmltv.xz
  
   ![bein-sports-1-qa-fr](https://github.com/victore447/M3uSportsFrance/assets/48101775/90648111-2422-42a7-81bb-18d1ed68ce6e)
