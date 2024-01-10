@@ -6,7 +6,7 @@
 ### <li>- [x] DESCRIPTION: </li>
 ![119](https://github.com/victore447/M3uSportsFrance/assets/48101775/0d1b4ef4-12bf-4400-89c6-cf228333bb06)
 - Voici une playlist M3u de 10 chaines de sport FHD qui est unlimited pour l'instant.👆Pour voir toutes les chaînes 🇨🇵 🇪🇦 🇬🇧 de ce serveur d'origine sur par exemple l'appli 🖱️ **[Tivimate Iptv Player](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=fr&gl=US)**
-☝️Il faux récupérer sur ce 🖱️ **[LIEN](https://github.com/victore447/M3uSportsFrance/blob/main/M3uSportsFrance.m3u)**   l'url ( http://molXXXXXXX::8080 ) et l'adresse mac ( 00:1A:79:XX:XXX:XX)  puis ajouter cela  dans Portal Stalker de Tivimate.
+☝️Il faux récupérer sur ce 🖱️ **[LIEN](https://github.com/victore447/M3uSportsFrance/blob/main/M3uSportsFrance.m3u)**   l'url ( http://molXXXXXXX::8080 ) et l'adresse mac ( 00:1A:79:XX:XXX:XX)  puis ajouter cela  dans Portal Stalker de Tivimate (Stalker portal HS dans Kodi).
 
 - Guide TV (Url à inserer ou à telecharger) : https://xmltvfr.fr/xmltv/xmltv.xz
  
