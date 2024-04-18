@@ -29,8 +29,8 @@
 >  
 > - 🖲️ **[Kodi Google Play Store](https://play.google.com/store/apps/details?id=org.xbmc.kodi&hl=fr&gl=US)**
 > - ![Kodi](https://github.com/victore447/M3uSportsFrance/assets/48101775/ded92ac9-7fe5-431c-ae8a-51e15bbd381b)
-> - 🖲️ **[Premium Mod Ott Navigator Iptv](https://dlandroid.com/ott-navigator-iptv-apk)**
-> - 🖲️ **[Ott Navigator Iptv Google Play Store](https://play.google.com/store/apps/details?id=studio.scillarium.ottnavigator&hl=fr&gl=US)**
+> - 🖲️ **[Premium Mod Ott Tv](https://leeapk.com/ott-tv-mod-apk/)**
+> - 🖲️ **[Ott Tv Google Play Store](https://play.google.com/store/apps/details?id=appnovatica.tv&hl=fr&gl=US)**
 > - ![Ott Navigator Google Play Store](https://github.com/victore447/M3uSportsFrance/assets/48101775/86d9a2f8-6516-4f7d-a1e6-89c429e438f3)
 > - 🖲️ **[Premium Mod Tivimate Iptv Player](https://dlandroid.com/tivimate-iptv-player-apk)**
 > - 🖲️ **[Tivimate Iptv Player Google Play Store](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=fr&gl=US)**
