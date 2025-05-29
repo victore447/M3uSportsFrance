@@ -1,41 +1,34 @@
 ﻿#EXTM3U
 
-#EXTINF:-1, tvg-id="BeinSport1.fr" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png" tvg-name="BeIn Sports 1 FHD"  group-title="Sports",BeIn Sports 1 FHD
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2816&extension=ts&play_token=fubq0ZpVWx&sn2=
+#EXTINF:-1, tvg-id="BeinSport1.fr" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png" tvg-name="BeIn Sports 1 HD"  group-title="Sports",BeIn Sports 1 HD
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/1490095787/index.m3u8
+
+#EXTINF:-1, tvg-id="BeinSpor2..fr" tvg-logo="https://static.epg.best/fr/BeinSports2.fr.png" tvg-name="BeIn Sports 2 HD"  group-title="Sports",BeIn Sports 2 HD
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/3596486984/index.m3u8
+
+#EXTINF:-1, tvg-id="BeinSport3.fr" tvg-logo="https://static.epg.best/fr/BeinSports3.fr.png" tvg-name="BeIn Sports 3 HD"  group-title="Sports",BeIn Sports 3 HD
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/3758995179/index.m3u8
+
+#EXTINF:-1, tvg-id="CanalPlus.fr" tvg-logo="https://static.epg.best/fr/CanalPlus.fr.png" tvg-name="Canal+ HD"  group-title="Sports",Canal+ HD
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/4177424223/index.m3u8
+
+#EXTINF:-1, tvg-id="CanalPlusFoot.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-foot-fr.png" tvg-name="Canal+ Foot HD"  group-title="Sports",Canal+ Foot HD
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/3299673666/index.m3u8
+
+#EXTINF:-1, tvg-id="CanalPlusSport360.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-sport-360-fr.png" tvg-name="Canal+ Sport 360 HD"  group-title="Sports",Canal+ Sport 360 HD
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/3411759213/index.m3u8
+
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport HD"  group-title="Sports",Canal+ Sport HD
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/3280446601/index.m3u8
+
+#EXTINF:-1, tvg-id="InfosportPlus.fr" tvg-logo="https://static.epg.best/fr/InfosportPlus.fr.png" tvg-name="Infosport+ HD"  group-title="Sports",Infosport+ HD
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/3208238801/index.m3u8
 
 
-#EXTINF:-1, tvg-id="BeinSpor2..fr" tvg-logo="https://static.epg.best/fr/BeinSports2.fr.png" tvg-name="BeIn Sports 2 FHD"  group-title="Sports",BeIn Sports 2 FHD
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2818&extension=ts&play_token=NetqiLLyMA&sn2=
-
-
-#EXTINF:-1, tvg-id="BeinSport3.fr" tvg-logo="https://static.epg.best/fr/BeinSports3.fr.png" tvg-name="BeIn Sports 3 FHD"  group-title="Sports",BeIn Sports 3 FHD
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2820&extension=ts&play_token=fSU4CBEl5o&sn2=
-
-
-#EXTINF:-1, tvg-id="CanalPlus.fr" tvg-logo="https://static.epg.best/fr/CanalPlus.fr.png" tvg-name="Canal+ FHD"  group-title="Sports",Canal+ FHD
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=43972&extension=ts&play_token=CfU9GIzt83&sn2=
-
-
-#EXTINF:-1, tvg-id="CanalPlusFoot.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-foot-fr.png" tvg-name="Canal+ Foot FHD"  group-title="Sports",Canal+ Foot FHD
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=418308&extension=ts&play_token=gI9BEIsFGv&sn2=
-
-
-#EXTINF:-1, tvg-id="CanalPlusSport360.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-sport-360-fr.png" tvg-name="Canal+ Sport 360 FHD"  group-title="Sports",Canal+ Sport 360 FHD
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=418307&extension=ts&play_token=BUkrdm9NKD&sn2=
-
-
-#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport FHD"  group-title="Sports",Canal+ Sport FHD
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2804&extension=ts&play_token=we3qaeVQwz&sn2=
-
-
-#EXTINF:-1, tvg-id="InfosportPlus.fr" tvg-logo="https://static.epg.best/fr/InfosportPlus.fr.png" tvg-name="Infosport+ FHD"  group-title="Sports",Infosport+ FHD
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2802&extension=ts&play_token=PEX5WpVqN4&sn2=
-
-
-#EXTINF:-1, tvg-id="RMCSport1.fr" tvg-logo="https://static.epg.best/fr/RMCSport1.fr.png" tvg-name="RMC Sport 1 FHD"  group-title="Sports",RMC Sport 1 FHD
+#EXTINF:-1, tvg-id="RMCSport1.fr" tvg-logo="https://static.epg.best/fr/RMCSport1.fr.png" tvg-name="RMC Sport 1 HD"  group-title="Sports",RMC Sport 1 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2808&extension=ts&play_token=SdkGLGkoNA&sn2=
 
 
-#EXTINF:-1, tvg-id="RMCSport2.fr" tvg-logo="https://static.epg.best/fr/RMCSport2.fr.png" tvg-name="RMC Sport 2 FHD"  group-title="Sports",RMC Sport 2 FHD
+#EXTINF:-1, tvg-id="RMCSport2.fr" tvg-logo="https://static.epg.best/fr/RMCSport2.fr.png" tvg-name="RMC Sport 2 HD"  group-title="Sports",RMC Sport 2 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2810&extension=ts&play_token=LE8LjwuM4i&sn2=
 
