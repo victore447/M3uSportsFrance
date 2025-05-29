@@ -10,8 +10,8 @@
 - Exemple l'appli 🖱️ **[Tivimate Iptv Player](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=fr&gl=US)**
 ☝️Il faux récupérer le fichier M3u sur ce 🖱️ **[LIEN](https://github.com/victore447/M3uSportsFrance/blob/main/M3uSportsFrance.m3u)**
 
+- 👆Pour étendre cette liste il vous suffit de changer les N° des chaines Vavoo  qui y sont integré a la fin de ces url vavoo et l'on peux creer ça propre liste M3u 🇫🇷 avec Guide Tv et regarder ça (enregistrement possible) sur n'importe quel lecteur multimedia prenant en charge le fichier m3u (🖲️ [Lien de tous les N°de chaines Vavoo 🇫🇷)](https://github.com/victore447/M3uSportsFrance/blob/main/Liste%20des%20N%C2%B0%20de%20Chaines%20de%20Vavoo.txt)
 - Guide TV (Url à inserer ou à telecharger) :https://xmltvfr.fr/xmltv/xmltv.xml
-- Pour étendre cette liste il vous suffit de changer les N° des chaines Vavoo  qui y sont integré a la fin de ces url vavoo et l'on peux creer ça propre liste M3u 🇫🇷 avec Guide Tv et regarder ça (enregistrement possible) sur n'importe quel lecteur multimedia prenant en charge le fichier m3u (🖲️ [Lien de tous les N°de chaines Vavoo 🇫🇷)](https://github.com/victore447/M3uSportsFrance/blob/main/Liste%20des%20N%C2%B0%20de%20Chaines%20de%20Vavoo.txt)
 - 
   ![bein-sports-1-qa-fr](https://github.com/victore447/M3uSportsFrance/assets/48101775/90648111-2422-42a7-81bb-18d1ed68ce6e)
   ![bein-sports-2-qa](https://github.com/victore447/M3uSportsFrance/assets/48101775/d2e3e90a-1236-40fa-8a44-40d5d208455c)
