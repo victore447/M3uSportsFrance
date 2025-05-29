@@ -5,7 +5,7 @@
 
 ### <li>- [x] DESCRIPTION: </li>
 ![119](https://github.com/victore447/M3uSportsFrance/assets/48101775/0d1b4ef4-12bf-4400-89c6-cf228333bb06)
-- Voici une playlist M3u de 10 chaines de sport HD qui est unlimited pour l'instant ![195](https://github.com/victore447/M3uSportsFrance/assets/48101775/b808fcd9-2123-4b54-a6a6-63b5533d526e).
+- Voici une partie d ma playlist que je partage playlist M3u de 10 chaines de sport HD qui est unlimited pour l'instant ![195](https://github.com/victore447/M3uSportsFrance/assets/48101775/b808fcd9-2123-4b54-a6a6-63b5533d526e).
 - 👆Ce sont des flux de Vavoo Tv 📺 utilisablent sur tous les Apk Multimedia prenant en charge les fichiers M3u.
 - Exemple l'appli 🖱️ **[Tivimate Iptv Player](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=fr&gl=US)**
 ☝️Il faux récupérer le fichier M3u sur ce 🖱️ **[LIEN](https://github.com/victore447/M3uSportsFrance/blob/main/M3uSportsFrance.m3u)**
