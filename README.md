@@ -8,7 +8,7 @@
 - Voici une playlist M3u de 10 chaines de sport FHD qui est unlimited pour l'instant ![195](https://github.com/victore447/M3uSportsFrance/assets/48101775/b808fcd9-2123-4b54-a6a6-63b5533d526e).👆Pour voir toutes les chaînes 🇨🇵 🇪🇦 🇬🇧 (1677 dont 120 Adultes⛔),Films🎞️(19511) & Séries 📺(6794) de ce serveur d'origine sur par exemple l'appli 🖱️ **[Tivimate Iptv Player](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=fr&gl=US)**
 ☝️Il faux récupérer sur ce 🖱️ **[LIEN](https://github.com/victore447/M3uSportsFrance/blob/main/M3uSportsFrance.m3u)**
 
-- Guide TV (Url à inserer ou à telecharger) : https://xmltvfr.fr/xmltv/xmltv.xz
+- Guide TV (Url à inserer ou à telecharger) :https://xmltvfr.fr/xmltv/xmltv.xml
  
   ![bein-sports-1-qa-fr](https://github.com/victore447/M3uSportsFrance/assets/48101775/90648111-2422-42a7-81bb-18d1ed68ce6e)
   ![bein-sports-2-qa](https://github.com/victore447/M3uSportsFrance/assets/48101775/d2e3e90a-1236-40fa-8a44-40d5d208455c)
