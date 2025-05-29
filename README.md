@@ -1,5 +1,5 @@
 
-## 👋Playlist M3u "10 Chaines de Sports Française  🇫🇷 (Bein,Rmc Sport...)"
+## 👋Playlist M3u "10 Chaines de Sports Française  🇫🇷 (BeinCanalRmc Sport..)"
 
 ![SportsLive](https://github.com/victore447/M3uSportsFrance/assets/48101775/047408df-b21e-4163-8506-17b81ed675d1)
 
