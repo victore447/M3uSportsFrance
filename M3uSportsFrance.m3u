@@ -9,6 +9,9 @@ https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/35964
 #EXTINF:-1, tvg-id="BeinSport3.fr" tvg-logo="https://static.epg.best/fr/BeinSports3.fr.png" tvg-name="BeIn Sports 3 HD"  group-title="Sports",BeIn Sports 3 HD
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/3758995179/index.m3u8
 
+#EXTINF:-1 tvg-id="Canalplus.fr" tvg-name="Canal+ FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s78977_dark_360w_270h.png" group-title="Sports",Canal+ FHD
+https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.sx/embed/stream-121.php
+
 #EXTINF:-1, tvg-id="CanalPlus.fr" tvg-logo="https://static.epg.best/fr/CanalPlus.fr.png" tvg-name="Canal+ HD"  group-title="Sports",Canal+ HD
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/4177424223/index.m3u8
 
