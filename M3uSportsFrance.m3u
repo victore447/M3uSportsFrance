@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:-1, tvg-id="BeinSport1.fr" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png" tvg-name="BeIn Sports 1 HD"  group-title="Sports",BeIn Sports 1 HD
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=146116&extension=ts
+http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=146116&extension=ts
 #EXTINF:-1, tvg-id="BeinSpor2..fr" tvg-logo="https://static.epg.best/fr/BeinSports2.fr.png" tvg-name="BeIn Sports 2 HD"  group-title="Sports",BeIn Sports 2 HD
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=149773&extension=ts
 #EXTINF:-1, tvg-id="BeinSport3.fr" tvg-logo="https://static.epg.best/fr/BeinSports3.fr.png" tvg-name="BeIn Sports 3 HD"  group-title="Sports",BeIn Sports 3 HD
