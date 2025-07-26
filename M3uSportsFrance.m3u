@@ -1,29 +1,21 @@
 ﻿#EXTM3U
 
 #EXTINF:-1, tvg-id="BeinSport1.fr" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png" tvg-name="BeIn Sports 1 HD"  group-title="Sports",BeIn Sports 1 HD
-https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/1490095787/index.m3u8
-
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=146116&extension=ts
 #EXTINF:-1, tvg-id="BeinSpor2..fr" tvg-logo="https://static.epg.best/fr/BeinSports2.fr.png" tvg-name="BeIn Sports 2 HD"  group-title="Sports",BeIn Sports 2 HD
-https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/3596486984/index.m3u8
-
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=149773&extension=ts
 #EXTINF:-1, tvg-id="BeinSport3.fr" tvg-logo="https://static.epg.best/fr/BeinSports3.fr.png" tvg-name="BeIn Sports 3 HD"  group-title="Sports",BeIn Sports 3 HD
-https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/3758995179/index.m3u8
-
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=250663&extension=ts
 #EXTINF:-1 tvg-id="Canalplus.fr" tvg-name="Canal+ FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s78977_dark_360w_270h.png" group-title="Sports",Canal+ FHD
-https://victore447-livetvmain.hf.space/proxy/m3u?url=https://daddylive.sx/embed/stream-121.php
-
+http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:0F:1B&stream=148474&extension=ts
 #EXTINF:-1, tvg-id="CanalPlus.fr" tvg-logo="https://static.epg.best/fr/CanalPlus.fr.png" tvg-name="Canal+ HD"  group-title="Sports",Canal+ HD
-https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/4177424223/index.m3u8
-
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=32769&extension=ts
 #EXTINF:-1, tvg-id="CanalPlusFoot.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-foot-fr.png" tvg-name="Canal+ Foot HD"  group-title="Sports",Canal+ Foot HD
-https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/3299673666/index.m3u8
-
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=256629&extension=ts
 #EXTINF:-1, tvg-id="CanalPlusSport360.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-sport-360-fr.png" tvg-name="Canal+ Sport 360 HD"  group-title="Sports",Canal+ Sport 360 HD
-https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/3411759213/index.m3u8
-
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=256628&extension=ts
 #EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport HD"  group-title="Sports",Canal+ Sport HD
-https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/3280446601/index.m3u8
-
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=250679&extension=ts
 #EXTINF:-1, tvg-id="InfosportPlus.fr" tvg-logo="https://static.epg.best/fr/InfosportPlus.fr.png" tvg-name="Infosport+ HD"  group-title="Sports",Infosport+ HD
 https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/3208238801/index.m3u8
 
