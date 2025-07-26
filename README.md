@@ -6,11 +6,7 @@
 ### <li>- [x] DESCRIPTION: </li>
 ![119](https://github.com/victore447/M3uSportsFrance/assets/48101775/0d1b4ef4-12bf-4400-89c6-cf228333bb06)
 - Voici une partie de ma playlist M3u que je partage.10 chaines de sport HD unlimited pour l'instant ![195](https://github.com/victore447/M3uSportsFrance/assets/48101775/b808fcd9-2123-4b54-a6a6-63b5533d526e).
-- 👆Ce sont des flux de Vavoo Tv 📺 utilisablent sur tous les Apk Multimedia prenant en charge les fichiers M3u.
-  Exemple l'appli 🖱️ **[Tivimate Iptv Player](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=fr&gl=US)**
-☝️Il faux récupérer le fichier M3u sur ce 🖱️ **[LIEN](https://github.com/victore447/M3uSportsFrance/blob/main/M3uSportsFrance.m3u)**
 
-- 👆Pour étendre cette liste il vous suffit de changer les N° des chaines Vavoo  qui y sont integré a la fin de ces url vavoo et l'on peux creer ça propre liste M3u 🇫🇷 avec Guide Tv et regarder ça (enregistrement possible) sur n'importe quel lecteur multimedia prenant en charge le fichier m3u (🖲️ [Lien de tous les N°de chaines Vavoo 🇫🇷)](https://github.com/victore447/M3uSportsFrance/blob/main/Liste%20des%20N%C2%B0%20de%20Chaines%20de%20Vavoo.txt)
 - Guide TV (Url à inserer ou à telecharger) :https://xmltvfr.fr/xmltv/xmltv.xml
 - 
   ![bein-sports-1-qa-fr](https://github.com/victore447/M3uSportsFrance/assets/48101775/90648111-2422-42a7-81bb-18d1ed68ce6e)
