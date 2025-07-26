@@ -16,13 +16,10 @@ http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=256629&extens
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=256628&extension=ts
 #EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport HD"  group-title="Sports",Canal+ Sport HD
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:bf:47:35&stream=250679&extension=ts
-
 #EXTINF:-1, tvg-id="InfosportPlus.fr" tvg-logo="https://static.epg.best/fr/InfosportPlus.fr.png" tvg-name="Infosport+ HD"  group-title="Sports",Infosport+ HD
-https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/3208238801/index.m3u8
-
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:BF:47:35&stream=274704&extension=ts
 #EXTINF:-1, tvg-id="RMCSport1.fr" tvg-logo="https://static.epg.best/fr/RMCSport1.fr.png" tvg-name="RMC Sport 1 HD"  group-title="Sports",RMC Sport 1 HD
-https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/2893363456/index.m3u8
-
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:BF:47:35&stream=32835&extension=ts
 #EXTINF:-1, tvg-id="RMCSport2.fr" tvg-logo="https://static.epg.best/fr/RMCSport2.fr.png" tvg-name="RMC Sport 2 HD"  group-title="Sports",RMC Sport 2 HD
-https://victore447-livetvmain.hf.space/proxy/m3u?url=https://vavoo.to/play/2516059589/index.m3u8
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:BF:47:35&stream=203436&extension=ts
 
