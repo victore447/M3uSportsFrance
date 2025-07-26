@@ -16,7 +16,7 @@ http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:CD:E0:3F&stream=256628&extens
 #EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport HD"  group-title="Sports",Canal+ Sport HD
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:BF:47:35&stream=250679&extension=ts
 #EXTINF:-1, tvg-id="InfosportPlus.fr" tvg-logo="https://static.epg.best/fr/InfosportPlus.fr.png" tvg-name="Infosport+ HD"  group-title="Sports",Infosport+ HD
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:BF:47:35&stream=274704&extension=ts
+http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=274704&extension=ts
 #EXTINF:-1, tvg-id="RMCSport1.fr" tvg-logo="https://static.epg.best/fr/RMCSport1.fr.png" tvg-name="RMC Sport 1 HD"  group-title="Sports",RMC Sport 1 HD
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:84:0F:1B&stream=/play/live.php?mac=00:1A:79:BF:47:35&stream=32835&extension=ts
 #EXTINF:-1, tvg-id="RMCSport2.fr" tvg-logo="https://static.epg.best/fr/RMCSport2.fr.png" tvg-name="RMC Sport 2 HD"  group-title="Sports",RMC Sport 2 HD
