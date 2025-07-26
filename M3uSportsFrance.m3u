@@ -9,11 +9,11 @@ http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=250663&extens
 #EXTINF:-1 tvg-id="Canalplus.fr" tvg-name="Canal+ FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s78977_dark_360w_270h.png" group-title="Sports",Canal+ FHD
 http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:0F:1B&stream=148474&extension=ts
 #EXTINF:-1, tvg-id="CanalPlus.fr" tvg-logo="https://static.epg.best/fr/CanalPlus.fr.png" tvg-name="Canal+ HD"  group-title="Sports",Canal+ HD
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:BF:47:35&stream=32769&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:CD:E0:3F&stream=32769&extension=ts
 #EXTINF:-1, tvg-id="CanalPlusFoot.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-foot-fr.png" tvg-name="Canal+ Foot HD"  group-title="Sports",Canal+ Foot HD
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:BF:47:35&stream=256629&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:CD:E0:3F&stream=256629&extension=ts
 #EXTINF:-1, tvg-id="CanalPlusSport360.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-sport-360-fr.png" tvg-name="Canal+ Sport 360 HD"  group-title="Sports",Canal+ Sport 360 HD
-http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:BF:47:35&stream=256628&extension=ts
+http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:CD:E0:3F&stream=256628&extension=ts
 #EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport HD"  group-title="Sports",Canal+ Sport HD
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:BF:47:35&stream=250679&extension=ts
 #EXTINF:-1, tvg-id="InfosportPlus.fr" tvg-logo="https://static.epg.best/fr/InfosportPlus.fr.png" tvg-name="Infosport+ HD"  group-title="Sports",Infosport+ HD
