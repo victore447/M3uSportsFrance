@@ -1,0 +1,40 @@
+#EXTINF
+#EXTINF:-1 tvg-id="Canalplus.fr" tvg-name="CANAL+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b7/Canal%2B2025.png/250px-Canal%2B2025.png" group-title="CINEMA",CANAL+ HD
+https://damp-mouse-75ea.pejan97800.workers.dev/https://events3.liveboxpro.com/event/121.m3u8
+#EXTINF:-1 tvg-id="warnertv.fr" tvg-name="WARNER" tvg-logo="https://static.wikia.nocookie.net/logo-chaines/images/5/59/WarnerTV.png/revision/latest?cb=20190817170410&path-prefix=fr" group-title="CINEMA",WARNER
+https://damp-mouse-75ea.pejan97800.workers.dev/https://events3.liveboxpro.com/event/858.m3u8
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="FRANCE 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png" group-title="TNT",FRANCE 2 HD
+https://damp-mouse-75ea.pejan97800.workers.dev/https://events3.liveboxpro.com/event/950.m3u8
+#EXTINF:-1 tvg-id="france3.fr" tvg-name="FRANCE 3 HD" tvg-logo="https://static.wikia.nocookie.net/logo-chaines/images/2/2d/800px-France_3_2018.svg.png/revision/latest?cb=20190721141453&path-prefix=fr" group-title="GENERALISTE",FRANCE 3 HD
+https://damp-mouse-75ea.pejan97800.workers.dev/https://events3.liveboxpro.com/event/951.m3u8
+#EXTINF:-1 tvg-id="m6.fr" tvg-name="M6 HD" tvg-logo="https://static.wikia.nocookie.net/logo-chaines/images/9/9c/800px-M6_2009.svg.png/revision/latest?cb=20190721155259&path-prefix=fr" group-title="GENERALISTE",M6 HD
+https://damp-mouse-75ea.pejan97800.workers.dev/https://events3.liveboxpro.com/event/470.m3u8
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" tvg-logo="https://static.wikia.nocookie.net/logo-chaines/images/9/97/Langfr-1280px-TMC_logo_2016.svg.png/revision/latest?cb=20190721172014&path-prefix=fr" group-title="GENERALISTE",TMC
+https://damp-mouse-75ea.pejan97800.workers.dev/https://events3.liveboxpro.com/event/955.m3u8
+#EXTINF:-1 tvg-id="TV3V.fr" tvg-name="TV3V" tvg-logo="https://i.ibb.co/X2yd0zL/logo-tv3v.jpg" group-title="GENERALISTE",TV3V
+https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
+#EXTINF:-1 tvg-id="w9.fr" tvg-name="W9 HD" tvg-logo="https://static.wikia.nocookie.net/logo-chaines/images/4/46/W9_logo_%282018%29.png/revision/latest?cb=20190725135039&path-prefix=fr" group-title="GENERALISTE",W9 HD
+https://damp-mouse-75ea.pejan97800.workers.dev/https://events3.liveboxpro.com/event/959.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OKOO TV" tvg-logo="https://medias.france.tv/gcebxIWhw1CpwYuRuC41hMoz9_k/970x0/filters:quality(85):format(webp)/9/9/5/b699095da17248239d5400cb0ba4a2a8cea548d05eec0aed133699a657422599.jpg" group-title="JEUNESSE",OKOO TV
+https://damp-mouse-75ea.pejan97800.workers.dev/https://events3.liveboxpro.com/event/952.m3u8
+#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="CANAL+ FOOT" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3b/C%2B_Foot.png" group-title="SPORTS",CANAL+ FOOT
+https://damp-mouse-75ea.pejan97800.workers.dev/https://events3.liveboxpro.com/event/463.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="CANAL+ SPORT 1" tvg-logo="https://icdb.tv/images/9679d2b4b59b44e1914255178fe869fa.jpg" group-title="SPORTS",CANAL+ SPORT 1
+https://damp-mouse-75ea.pejan97800.workers.dev/https://events3.liveboxpro.com/event/486.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport2.af" tvg-name="CANAL+ SPORT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Canal%2B_Sport_2_PL.png" group-title="SPORTS",CANAL+ SPORT 2
+https://damp-mouse-75ea.pejan97800.workers.dev/https://events3.liveboxpro.com/event/487.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport3.af" tvg-name="CANAL+ SPORT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Canal%2B_Sport_3_PL.svg/960px-Canal%2B_Sport_3_PL.svg.png" group-title="SPORTS",CANAL+ SPORT 3
+https://damp-mouse-75ea.pejan97800.workers.dev/https://events3.liveboxpro.com/event/488.m3u8
+#EXTINF:-1 tvg-id="canalplussport4.fr" tvg-name="CANAL+ SPORT 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Canal%2B_Sport_4_PL.svg/1200px-Canal%2B_Sport_4_PL.svg.png" group-title="SPORTS",CANAL+ SPORT 4
+https://damp-mouse-75ea.pejan97800.workers.dev/https://events3.liveboxpro.com/event/489.m3u8
+#EXTINF:-1 tvg-id="canalplussport5.fr" tvg-name="CANAL+ SPORT 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/CANAL%2B_Sport_5.png/1100px-CANAL%2B_Sport_5.png" group-title="SPORTS",CANAL+ SPORT 5
+https://damp-mouse-75ea.pejan97800.workers.dev/https://events3.liveboxpro.com/event/490.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="CANAL+ SPORT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Logo_Canal%2B_Sport_2013.svg/2560px-Logo_Canal%2B_Sport_2013.svg.png" group-title="SPORTS",CANAL+ SPORT HD
+https://damp-mouse-75ea.pejan97800.workers.dev/https://events3.liveboxpro.com/event/122.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="CANAL+ SPORT LIVE 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Logo_Canal%2B_Sport_2013.svg/2560px-Logo_Canal%2B_Sport_2013.svg.png" group-title="SPORTS",CANAL+ SPORT LIVE 1 HD
+https://damp-mouse-75ea.pejan97800.workers.dev/https://events3.liveboxpro.com/event/173.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="CANAL+ SPORT LIVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Logo_Canal%2B_Sport_2013.svg/2560px-Logo_Canal%2B_Sport_2013.svg.png" group-title="SPORTS",CANAL+ SPORT LIVE HD
+https://damp-mouse-75ea.pejan97800.workers.dev/https://events3.liveboxpro.com/event/171.m3u8
+#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-name="L'EQUIPE MOTEUR HD" tvg-logo="https://static.wikia.nocookie.net/logo-chaines/images/9/9d/Equipetv.jpg/revision/latest?cb=20190725194621&path-prefix=fr" group-title="SPORTS",L'EQUIPE MOTEUR HD
+https://damp-mouse-75ea.pejan97800.workers.dev/https://events3.liveboxpro.com/event/645.m3u8
+
