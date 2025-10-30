@@ -26,6 +26,9 @@
 ><details>
 >  <summary><b><u>Cliquer sur l'icone noir pour voir:</u></b></summary>
 >  
+> - 🖲️ **Netfly - Chaines 🇫🇷 & VOD 🇫🇷 Live** 
+> - **[👆Gratuit 365J Renouvelable via yopmail.com - 👉 ⏱️ 9H00-00H00](https://192.168.1.30:5443/tos/#/share?share_link=9e609568fe5fc9f625e542f6ba47192d6ca2bf03c47c4b1a370f92d55695b06d)**
+> ![NetflyApk](https://github.com/user-attachments/assets/762ea7ca-7fb9-4837-b0f4-32ce57f30d39)
 > - 🖲️ **[Kodi Google Play Store](https://play.google.com/store/apps/details?id=org.xbmc.kodi&hl=fr&gl=US)**
 > - ![Kodi](https://github.com/victore447/M3uSportsFrance/assets/48101775/ded92ac9-7fe5-431c-ae8a-51e15bbd381b)
 > - 🖲️ **[Premium Mod Ott Tv](https://leeapk.com/ott-tv-mod-apk/)**
