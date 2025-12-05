@@ -22,6 +22,7 @@
   <img width="132" height="99" alt="CinePlusEmotion fr" src="https://github.com/user-attachments/assets/deff33e9-35db-4db1-8291-a7bb6171c5cf" />
   <img width="132" height="99" alt="CinePlusFrisson fr" src="https://github.com/user-attachments/assets/7460154b-d559-4e5a-abe5-a574a52bf30e" />
   <img width="132" height="99" alt="crime_district_fr" src="https://github.com/user-attachments/assets/c163db31-96c2-46fd-a052-ca49dea2dda5" />
+  <img width="132" height="99" alt="crtv-cm" src="https://github.com/user-attachments/assets/b89e8ab4-2333-4ec9-825a-500f579f7c3f" />
   <img width="132" height="99" alt="Dazn" src="https://github.com/user-attachments/assets/ec5b7374-415e-433b-a4b3-ab5c7fd4bec1" />
   <img width="132" height="99" alt="Eurosport" src="https://github.com/user-attachments/assets/5426060d-e234-47f8-8797-b4432d40ee74" />
   ![infosport-plus-fr](https://github.com/victore447/M3uSportsFrance/assets/48101775/a7d7e6b4-08b2-4740-b603-15065404f279)
