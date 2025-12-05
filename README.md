@@ -4,7 +4,7 @@
 
 ### <li>- [x] DESCRIPTION: </li>
 ![119](https://github.com/victore447/M3uSportsFrance/assets/48101775/0d1b4ef4-12bf-4400-89c6-cf228333bb06)
-- Voici une partie de mes playlists M3u que je partage.Chaines de sport,Ciné,Docs etc.. HD unlimited pour l'instant ![195](https://github.com/victore447/M3uSportsFrance/assets/48101775/b808fcd9-2123-4b54-a6a6-63b5533d526e).
+- Voici une partie de mes playlists M3u que je partage.Chaines de sport,Ciné,Docs etc.. FHD & HD unlimited pour l'instant ![195](https://github.com/victore447/M3uSportsFrance/assets/48101775/b808fcd9-2123-4b54-a6a6-63b5533d526e).
 
 - Guide TV (Url à inserer ou à telecharger) :https://xmltvfr.fr/xmltv/xmltv.xml
 - 
