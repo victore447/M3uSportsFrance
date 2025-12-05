@@ -1,5 +1,5 @@
 
-## 👋Playlist M3u "Sports Française  🇫🇷 & Plus (Bein,Canal,Rmc Sport..)"
+## 👋Playlist M3u "Sports France 🇫🇷 & Plus (Bein,Canal+,Rmc Sport,Dazn,Ciné+..)"
 
 ![SportsLive](https://github.com/victore447/M3uSportsFrance/assets/48101775/047408df-b21e-4163-8506-17b81ed675d1)
 
