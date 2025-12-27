@@ -83,13 +83,10 @@
   Les liens s'ouvrent directement sans popu suite à la mise a jour recente du serveur VavooTo.
 👆 Par contre il y a des moments certaines chaines Tv ne marchent pas.
   
-- ☝️Comme nous aimons tous du gratuit,Avec le [Fichier M3u Vavoo 👉](https://github.com/victore447/M3uSportsFranceAndMore/blob/main/VavooTo%20M3u8.m3u) & Les Apk Vavoo 📺,Dezor By JokerTv 📺 
-[Sources Url👉](https://192.168.1.30:5443/tos/#/share?share_link=9e609568fe5fc9f625e542f6ba47192d6ca2bf03c47c4b1a370f92d55695b06d).
-☝️Attention dorenavant avec [KODI](https://play.google.com/store/apps/details?id=org.xbmc.kodi&hl=fr&pli=1) les [👉DNS](https://github.com/changetondns/changetondns.fr) ET OU [👉VPN (Proton Vpn Est Gratuit)](https://protonvpn.com/fr?) requis pour avec certains fournisseurs Internet
-plus de coupures pendant de grands événement sportifs etc...
-Et vous etes tranquille pour les fetes de fin d'années et pour longtemps.
+- ☝️Comme nous aimons tous du gratuit,Avec le [Fichier M3u Vavoo 👉](https://github.com/victore447/M3uSportsFranceAndMore/blob/main/VavooTo%20M3u8.m3u) & Les Apk Vavoo 📺,Dezor By JokerTv [👉Sources Url](https://192.168.1.30:5443/tos/#/share?share_link=9e609568fe5fc9f625e542f6ba47192d6ca2bf03c47c4b1a370f92d55695b06d) plus de coupures pendant de grands événement sportifs etc...Et vous etes tranquille pour les fetes de fin d'années et pour longtemps.
+- ☝️Attention dorenavant avec [KODI](https://play.google.com/store/apps/details?id=org.xbmc.kodi&hl=fr&pli=1) les [👉DNS](https://github.com/changetondns/changetondns.fr) ET OU [👉VPN (Proton Vpn Est Gratuit)](https://protonvpn.com/fr?) requis pour avec certains fournisseurs Internet
   
-  - Guide TV (Url à inserer ou à telecharger) : https://xmltvfr.fr/xmltv/xmltv.xml
+ - Guide TV (Url à inserer ou à telecharger) : https://xmltvfr.fr/xmltv/xmltv.xml
 ></details>
 
 ></details>
@@ -103,8 +100,6 @@ Vous permetent également d'accéder au contenu de diverses autres sources (appe
 
 Pour l'activer il vous suffit d'extraire le fichier RAR joint et lire les instructions du fichier txt pour inserer l'Url
 et ajouté le plugin de traduction en francais (liens ci-dessous). ☝️ Il lui manque juste le guide tv pour les chaines.
-
-![Vavooto1](https://github.com/user-attachments/assets/f5d0e917-381b-4a19-8060-64147ecbcf71)
 
 ></details>
 ### <li>- [x] 🇬🇧 PURPOSE OF THE APPS (English version) </li>
