@@ -118,7 +118,7 @@ And you have peace of mind for the end of year holidays and for a long time.
 ></details>
   
 
-### <li>- [x] PLUGIN 1 REPO VIDEO VAVOO.TO 👇: </li>
+### <li>- [x] PLUGIN & REPO VIDEO VAVOO.TO 👇: </li>
 
 > - 🖲️ **[Plugin Vavoo.to Kodi "Michaz" - 👉](https://github.com/michaz1988/michaz1988.github.io/tree/main/repo/plugin.video.vavooto)**
 > - 🖲️ **[Plugin & Repo Vavoo.to Kodi "Iwf1" - 👉](https://iwf1.com/kodi/search?query=vavo)**
