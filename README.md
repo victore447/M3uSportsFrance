@@ -121,8 +121,15 @@ And you have peace of mind for the end of year holidays and for a long time.
 plus de coupures pendant de grands événement sportifs etc...
 Et vous etes tranquille pour les fetes de fin d'années et pour longtemps.
 
-![32](https://github.com/user-attachments/assets/2067d5d5-027e-42e5-af27-b33cbf5f92ac)
-### <li>- [x] APK 👇: </li>
+### <li>- [x] PLUGIN 1 REPO VIDEO VAVOO.TO 👇: </li>
+
+> - 🖲️ **[Plugin Vavoo.to Kodi "Michaz" - 👉](https://github.com/michaz1988/michaz1988.github.io/tree/main/repo/plugin.video.vavooto)**
+> - 🖲️ **[Plugin & Repo Vavoo.to Kodi "Iwf1" - 👉](https://iwf1.com/kodi/search?query=vavo)**
+
+> 
+></details>
+
+### <li>- [x] APK VAVOO👇: </li>
 
 > - 🖲️ **[Vavoo RAR - 👉 ⏱️ 9H00-00H00](https://192.168.1.30:5443/tos/#/share?share_link=9e609568fe5fc9f625e542f6ba47192d6ca2bf03c47c4b1a370f92d55695b06d)**
 > - 🖲️ **[Dezor Premuim Mod - 👉⏱️ 9H00-00H00 (Url activation "vavoo.to") ](https://192.168.1.30:5443/tos/#/share?share_link=9e609568fe5fc9f625e542f6ba47192d6ca2bf03c47c4b1a370f92d55695b06d)**
