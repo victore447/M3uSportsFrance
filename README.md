@@ -71,12 +71,11 @@
 # M3u  France 🇫🇷 Vavoo Tv 2025 & App Vavoo Tv Android Tv
 🖐️ ![360](https://github.com/user-attachments/assets/fca9e0de-cf7b-4f5e-bc4a-9ece0a6c2343) App Vavoo 📺 Iptv  (playlist Tv France (m3u)  & World))
 
-<img width="628" height="247" alt="VavooFrance" src="https://github.com/user-attachments/assets/bf215962-7046-4ee0-8ef3-ffd951d0f1ae" />
-
-
+<img width="982" height="391" alt="vavoo" src="https://github.com/user-attachments/assets/dc47b72d-f8af-4c7d-9ade-665430f2ea5f" />
 ></details>
+
 ### <li>- [x] 🇫🇷 OBJET DU FICHIER M3U VAVOO FRANCE (French version) </li>
-![46](https://github.com/user-attachments/assets/0298847c-9e8e-4404-840a-8451f799ea2c)
+![46](https://github.com/user-attachments/assets/93e181d0-4774-47b3-b4a4-195b2b8e1e14)
 <summary><b><u>Cliquer sur l'icone noir pour voir:</u></b></summary>
 <details>
 👆 Tout d'abort la playlist M3u joint au présent repo contient que des chaines Française (Environ 279).
@@ -89,7 +88,7 @@
 
 ></details>
 ### <li>- [x] 🇫🇷 OBJET DU APK (French version) </li>
-![46](https://github.com/user-attachments/assets/0298847c-9e8e-4404-840a-8451f799ea2c)
+![46](https://github.com/user-attachments/assets/93e181d0-4774-47b3-b4a4-195b2b8e1e14)
 <summary><b><u>Cliquer sur l'icone noir pour voir:</u></b></summary>
 <details>
 Cette applis est une IPTV disponible pour Android.Vous pouvez voir toutes les chaintes 🇨🇵 Francaise etc.., 
@@ -103,7 +102,7 @@ et ajouté le plugin de traduction en francais (liens ci-dessous). ☝️ Il lui
 
 ></details>
 ### <li>- [x] 🇬🇧 PURPOSE OF THE APP (English version) </li>
-![46](https://github.com/user-attachments/assets/0298847c-9e8e-4404-840a-8451f799ea2c)
+![46](https://github.com/user-attachments/assets/93e181d0-4774-47b3-b4a4-195b2b8e1e14)
 <summary><b><u>Click on the black icon to see:</u></b></summary>
 <details>
 👆This app is an IPTV available for Android. You can see all the channels 🇨🇵 French etc.,
