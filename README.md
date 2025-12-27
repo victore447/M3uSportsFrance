@@ -83,25 +83,31 @@
   Les liens s'ouvrent directement sans popu suite à la mise a jour recente du serveur VavooTo.
 👆 Par contre il y a des moments certaines chaines Tv ne marchent pas.
   
+- ☝️Comme nous aimons tous du gratuit,Avec le [Fichier M3u Vavoo 👉](https://github.com/victore447/M3uSportsFranceAndMore/blob/main/VavooTo%20M3u8.m3u) & Les Apk Vavoo 📺,Dezor By JokerTv 📺 
+[Sources Url👉](https://192.168.1.30:5443/tos/#/share?share_link=9e609568fe5fc9f625e542f6ba47192d6ca2bf03c47c4b1a370f92d55695b06d).
+☝️Attention dorenavant avec [KODI](https://play.google.com/store/apps/details?id=org.xbmc.kodi&hl=fr&pli=1) les [👉DNS](https://github.com/changetondns/changetondns.fr) ET OU [👉VPN (Proton Vpn Est Gratuit)](https://protonvpn.com/fr?) requis pour avec certains fournisseurs Internet
+plus de coupures pendant de grands événement sportifs etc...
+Et vous etes tranquille pour les fetes de fin d'années et pour longtemps.
+  
   - Guide TV (Url à inserer ou à telecharger) : https://xmltvfr.fr/xmltv/xmltv.xml
 ></details>
 
 ></details>
-### <li>- [x] 🇫🇷 OBJET DU APK (French version) </li>
+### <li>- [x] 🇫🇷 OBJET DES APK (French version) </li>
 ![46](https://github.com/user-attachments/assets/93e181d0-4774-47b3-b4a4-195b2b8e1e14)
 <summary><b><u>Cliquer sur l'icone noir pour voir:</u></b></summary>
 <details>
-Cette applis est une IPTV disponible pour Android.Vous pouvez voir toutes les chaintes 🇨🇵 Francaise etc.., 
-Seul les Films et series sont en langue allemande,mais d'autres contenus comme des plugins videos sont disponibles.
-Il vous permet également d'accéder au contenu de diverses autres sources (appelées Bundles).
+CeS applis IPTV disponiblent pour Android.Vous pouvez voir toutes les chaintes 🇨🇵 Francaise etc.., 
+Seul les Films et series sont en langue allemande,mais d'autres contenus comme des plugins videos sont disponiblent.
+Vous permetent également d'accéder au contenu de diverses autres sources (appelées Bundles).
 
-Pour l'activer il vous suffit d'extraire le fichier RAR et lire les instructions du fichier txt pour inserer l'Url
+Pour l'activer il vous suffit d'extraire le fichier RAR joint et lire les instructions du fichier txt pour inserer l'Url
 et ajouté le plugin de traduction en francais (liens ci-dessous). ☝️ Il lui manque juste le guide tv pour les chaines.
 
 ![Vavooto1](https://github.com/user-attachments/assets/f5d0e917-381b-4a19-8060-64147ecbcf71)
 
 ></details>
-### <li>- [x] 🇬🇧 PURPOSE OF THE APP (English version) </li>
+### <li>- [x] 🇬🇧 PURPOSE OF THE APPS (English version) </li>
 ![46](https://github.com/user-attachments/assets/93e181d0-4774-47b3-b4a4-195b2b8e1e14)
 <summary><b><u>Click on the black icon to see:</u></b></summary>
 <details>
@@ -117,9 +123,6 @@ And you have peace of mind for the end of year holidays and for a long time.
 ![Vavooto1](https://github.com/user-attachments/assets/919eeec9-2652-4054-abc8-31c424c23601)
 ></details>
   
-☝️Comme nous aimons tous du gratuit,Avec le Fichier M3u Vavoo & Les Apk Vavoo 📺,Dezor By JokerTv 📺 (sources Url de vavoo) 
-plus de coupures pendant de grands événement sportifs etc...
-Et vous etes tranquille pour les fetes de fin d'années et pour longtemps.
 
 ### <li>- [x] PLUGIN 1 REPO VIDEO VAVOO.TO 👇: </li>
 
@@ -131,8 +134,8 @@ Et vous etes tranquille pour les fetes de fin d'années et pour longtemps.
 
 ### <li>- [x] APK VAVOO👇: </li>
 
-> - 🖲️ **[Vavoo RAR - 👉 ⏱️ 9H00-00H00](https://192.168.1.30:5443/tos/#/share?share_link=9e609568fe5fc9f625e542f6ba47192d6ca2bf03c47c4b1a370f92d55695b06d)**
-> - 🖲️ **[Dezor Premuim Mod - 👉⏱️ 9H00-00H00 (Url activation "vavoo.to") ](https://192.168.1.30:5443/tos/#/share?share_link=9e609568fe5fc9f625e542f6ba47192d6ca2bf03c47c4b1a370f92d55695b06d)**
+> - 🖲️ **[Vavoo RAR - 👉](https://192.168.1.30:5443/tos/#/share?share_link=9e609568fe5fc9f625e542f6ba47192d6ca2bf03c47c4b1a370f92d55695b06d)**
+> - 🖲️ **[Dezor Premuim Mod (Url activation "vavoo.to") ](https://192.168.1.30:5443/tos/#/share?share_link=9e609568fe5fc9f625e542f6ba47192d6ca2bf03c47c4b1a370f92d55695b06d)**
 > - 🖲️ **[All Url Vavoo Bundle URLs](https://archive.org/details/vavoo-box)**
 > 
 ></details>
