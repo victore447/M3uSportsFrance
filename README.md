@@ -1,13 +1,6 @@
 ## 👋Playlist M3u "Sports France 🇫🇷 & Plus (Bein,Canal+,Rmc Sport,Dazn,Ciné+..)"
-
-![SportsLive](https://github.com/victore447/M3uSportsFrance/assets/48101775/047408df-b21e-4163-8506-17b81ed675d1)
-
-### <li>- [x] DESCRIPTION: </li>
 ![119](https://github.com/victore447/M3uSportsFrance/assets/48101775/0d1b4ef4-12bf-4400-89c6-cf228333bb06)
-- Voici une partie de mes playlists M3u que je partage.Chaines de sport,Ciné,Docs etc.. FHD & HD unlimited pour l'instant ![195](https://github.com/victore447/M3uSportsFrance/assets/48101775/b808fcd9-2123-4b54-a6a6-63b5533d526e).
 
-- Guide TV (Url à inserer ou à telecharger) :https://xmltvfr.fr/xmltv/xmltv.xml
-- 
   ![bein-sports-1-qa-fr](https://github.com/victore447/M3uSportsFrance/assets/48101775/90648111-2422-42a7-81bb-18d1ed68ce6e)
   ![bein-sports-2-qa](https://github.com/victore447/M3uSportsFrance/assets/48101775/d2e3e90a-1236-40fa-8a44-40d5d208455c)
   ![bein-sports-3-qa](https://github.com/victore447/M3uSportsFrance/assets/48101775/fbca7480-fb4c-48a3-beba-76eabf27e54b)
@@ -31,9 +24,20 @@
   <img width="132" height="99" alt="MCM fr" src="https://github.com/user-attachments/assets/88bf9022-e76d-4ded-97c6-5085d6b20188" />
   <img width="132" height="99" alt="planete-plus-crime-fr png" src="https://github.com/user-attachments/assets/255c6c1b-cd6f-449b-a2f8-92b0c7702bbe" />
   <img width="132" height="99" alt="trace-africa-fr" src="https://github.com/user-attachments/assets/1c8d44c4-3f83-4dff-a1d3-2b6971c94f74" />
-   ></details>
+    
+![SportsLive](https://github.com/victore447/M3uSportsFrance/assets/48101775/047408df-b21e-4163-8506-17b81ed675d1)
+### <li>- [x] DESCRIPTION DES PLAYLISTS M3U CLASSIQUES: </li>
+![313](https://github.com/user-attachments/assets/f2d3565e-d686-4997-845e-dfe75547d296)
+><details>
+>  <summary><b><u>Cliquer sur l'icone noir pour voir:</u></b></summary>
+> 
+> - Voici une partie de mes playlists M3u que je partage.Chaines de sport,Ciné,Docs etc.. FHD & HD unlimited pour l'instant ![195](https://github.com/victore447/M3uSportsFrance/assets/48101775/b808fcd9-2123-4b54->a6a6-63b5533d526e).
+>  
+>- Guide TV (Url à inserer ou à telecharger) :https://xmltvfr.fr/xmltv/xmltv.xml
+> 
+ ></details>
 ### <li>- [x] LIENS APK AYANTS TOUTES LES CHAINES DE SPORTS.. & VOD: </li>
-![46](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/caa9e727-800b-4827-a780-9684462ccf19)
+![313](https://github.com/user-attachments/assets/f2d3565e-d686-4997-845e-dfe75547d296)
 ><details>
 >  <summary><b><u>Cliquer sur l'icone noir pour voir:</u></b></summary>
 >  
@@ -46,7 +50,7 @@
 
 ></details>
 ### <li>- [x] LIENS APK M3U,XTREAM CODE,STB..VIERGES: </li>
-![46](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/caa9e727-800b-4827-a780-9684462ccf19)
+![313](https://github.com/user-attachments/assets/f2d3565e-d686-4997-845e-dfe75547d296)
 ><details>
 >  <summary><b><u>Cliquer sur l'icone noir pour voir:</u></b></summary>
 >  
@@ -64,5 +68,66 @@
 
 >  
 ></details>
+# M3u  France 🇫🇷 Vavoo Tv 2025 & App Vavoo Tv Android Tv
+🖐️ ![360](https://github.com/user-attachments/assets/fca9e0de-cf7b-4f5e-bc4a-9ece0a6c2343) App Vavoo 📺 Iptv  (playlist Tv France (m3u)  & World))
 
+<img width="628" height="247" alt="VavooFrance" src="https://github.com/user-attachments/assets/bf215962-7046-4ee0-8ef3-ffd951d0f1ae" />
+
+
+></details>
+### <li>- [x] 🇫🇷 OBJET DU FICHIER M3U VAVOO FRANCE (French version) </li>
+![46](https://github.com/user-attachments/assets/0298847c-9e8e-4404-840a-8451f799ea2c)
+<summary><b><u>Cliquer sur l'icone noir pour voir:</u></b></summary>
+<details>
+👆 Tout d'abort la playlist M3u joint au présent repo contient que des chaines Française (Environ 279).
+  Ne marche que dans kodi via Iptv Pvr simple client  (pas tester sans le plugin video vavoo.to).
+  Les liens s'ouvrent directement sans popu suite à la mise a jour recente du serveur VavooTo.
+👆 Par contre il y a des moments certaines chaines Tv ne marchent pas.
+  
+  - Guide TV (Url à inserer ou à telecharger) : https://xmltvfr.fr/xmltv/xmltv.xml
+></details>
+
+></details>
+### <li>- [x] 🇫🇷 OBJET DU APK (French version) </li>
+![46](https://github.com/user-attachments/assets/0298847c-9e8e-4404-840a-8451f799ea2c)
+<summary><b><u>Cliquer sur l'icone noir pour voir:</u></b></summary>
+<details>
+Cette applis est une IPTV disponible pour Android.Vous pouvez voir toutes les chaintes 🇨🇵 Francaise etc.., 
+Seul les Films et series sont en langue allemande,mais d'autres contenus comme des plugins videos sont disponibles.
+Il vous permet également d'accéder au contenu de diverses autres sources (appelées Bundles).
+
+Pour l'activer il vous suffit d'extraire le fichier RAR et lire les instructions du fichier txt pour inserer l'Url
+et ajouté le plugin de traduction en francais (liens ci-dessous). ☝️ Il lui manque juste le guide tv pour les chaines.
+
+![Vavooto1](https://github.com/user-attachments/assets/f5d0e917-381b-4a19-8060-64147ecbcf71)
+
+></details>
+### <li>- [x] 🇬🇧 PURPOSE OF THE APP (English version) </li>
+![46](https://github.com/user-attachments/assets/0298847c-9e8e-4404-840a-8451f799ea2c)
+<summary><b><u>Click on the black icon to see:</u></b></summary>
+<details>
+👆This app is an IPTV available for Android. You can see all the channels 🇨🇵 French etc.,
+Only Films and series are in German, but other content such as video plugins are available.
+It also allows you to access content from various other sources (called Bundles).
+
+To activate it, simply extract the RAR file and read the instructions in the txt file to insert the URL
+and added the French translation plugin (links below).☝️ All it needs is the TV guide for the channels.
+☝️As we all like free, with the VAVOO app 📺 no more outages during major sporting events etc...
+And you have peace of mind for the end of year holidays and for a long time.
+
+![Vavooto1](https://github.com/user-attachments/assets/919eeec9-2652-4054-abc8-31c424c23601)
+></details>
+  
+☝️Comme nous aimons tous du gratuit,Avec le Fichier M3u Vavoo & Les Apk Vavoo 📺,Dezor By JokerTv 📺 (sources Url de vavoo) 
+plus de coupures pendant de grands événement sportifs etc...
+Et vous etes tranquille pour les fetes de fin d'années et pour longtemps.
+
+![32](https://github.com/user-attachments/assets/2067d5d5-027e-42e5-af27-b33cbf5f92ac)
+### <li>- [x] APK 👇: </li>
+
+> - 🖲️ **[Vavoo RAR - 👉 ⏱️ 9H00-00H00](https://192.168.1.30:5443/tos/#/share?share_link=9e609568fe5fc9f625e542f6ba47192d6ca2bf03c47c4b1a370f92d55695b06d)**
+> - 🖲️ **[Dezor Premuim Mod - 👉⏱️ 9H00-00H00 (Url activation "vavoo.to") ](https://192.168.1.30:5443/tos/#/share?share_link=9e609568fe5fc9f625e542f6ba47192d6ca2bf03c47c4b1a370f92d55695b06d)**
+> - 🖲️ **[All Url Vavoo Bundle URLs](https://archive.org/details/vavoo-box)**
+> 
+></details>
 ### <li>- [x] 👌 Mettre une star en haut si ça été intéressant✔️ </li>![smiley-etoile-image-animee-0164](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/dc73a5b7-e38e-4d80-9cbc-68ac5dd89826)
