@@ -31,7 +31,7 @@
 ><details>
 >  <summary><b><u>Cliquer sur l'icone noir pour voir:</u></b></summary>
 > 
-> - Voici une partie de mes playlists M3u que je partage.Chaines de sport,Ciné,Docs etc.. FHD & HD unlimited pour l'instant ![195](https://github.com/victore447/M3uSportsFrance/assets/48101775/b808fcd9-2123-4b54->a6a6-63b5533d526e).
+> - Voici une partie de mes playlists M3u que je partage.Chaines de sport,Ciné,Docs etc.. FHD & HD unlimited pour l'instant 🤔.
 >  
 >- Guide TV (Url à inserer ou à telecharger) :https://xmltvfr.fr/xmltv/xmltv.xml
 > 
