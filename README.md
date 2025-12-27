@@ -79,8 +79,7 @@
 <summary><b><u>Cliquer sur l'icone noir pour voir:</u></b></summary>
 <details>
 👆 Tout d'abort la playlist M3u joint au présent repo contient que des chaines Française (Environ 279).
-  Ne marche que dans kodi via Iptv Pvr simple client  (pas tester sans le plugin video vavoo.to).
-  Les liens s'ouvrent directement sans popu suite à la mise a jour recente du serveur VavooTo.
+  Ne marche que dans kodi via [Iptv Simple Client](https://github.com/kodi-pvr/pvr.iptvsimple) et Les liens s'ouvrent directement sans popu suite à la mise a jour recente du serveur VavooTo.
 👆 Par contre il y a des moments certaines chaines Tv ne marchent pas.
   
 - ☝️Comme nous aimons tous du gratuit,Avec le [Fichier M3u Vavoo 👉](https://github.com/victore447/M3uSportsFranceAndMore/blob/main/VavooTo%20M3u8.m3u) & Les Apk Vavoo 📺,Dezor By JokerTv [👉Sources Url](https://192.168.1.30:5443/tos/#/share?share_link=9e609568fe5fc9f625e542f6ba47192d6ca2bf03c47c4b1a370f92d55695b06d) plus de coupures pendant de grands événement sportifs etc...Et vous etes tranquille pour les fetes de fin d'années et pour longtemps.
